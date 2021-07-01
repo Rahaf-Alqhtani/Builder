@@ -43,3 +43,5 @@
 
 > .ملاحظة/ قم بإجراء التغييرات اللازمة على المشروع لكي تتمكن من أخذ المتطلبات بشكل صحيح
 > <Div dir=center><>
+ [![BCH compliance](https://bettercodehub.com/edge/badge/Rahaf-Alqhtani/Builder?branch=main)](https://bettercodehub.com/)
+ 
